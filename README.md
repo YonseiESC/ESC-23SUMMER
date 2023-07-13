@@ -16,9 +16,21 @@
 
 
 ## 정규스터디
-
+- 해석학(1) (김두은)
+- 베이즈통계 (왕재혁)
+- ML/DL (최가윤)
+- 논문리딩 (오태환)
 
 ## 정규세션 교재
-- 주교재: Convex Optimization – Boyd and Vandenberghe
-- 부교재: Large-Scale Convex Optimization: Algorithms & Analyses via Monotone Operators
-- 부교재: Quantitative Economics with Julia 
+- 주교재: Numerical Linear Algebra – Trefethen and Bau
+- 부교재: Scientific Computing - Michael T.Heath
+- 부교재: Numerical Linear Algebra with Julia - Darve and Wootters 
+
+## 세션 영상 유튜브 링크
+- 230713 SUMMER week1 : Conditioning and Stability - 
+- 230720 SUMMER week2 : SVD and Its Application - 
+- 230727 SUMMER week3 : Orthogonalization, QR Factorization, Least Squares Problem - 
+- 230803 SUMMER week4 : Eigenvalue Problem - 
+- 230810 SUMMER week5 : Eigenvalue Problem for Sparse Matrices - 
+- 230824 SUMMER week6 : Krylow Methods for Solving Linear Systems -
+
