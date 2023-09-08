@@ -1,6 +1,6 @@
 # ESC-23SUMMER
 
-![KakaoTalk_20230103_165425889](https://user-images.githubusercontent.com/56993675/210739941-2714df30-92ed-4cfc-a76f-2f075ccacf47.jpg)
+![image](https://github.com/YonseiESC/ESC-23SUMMER/assets/56993675/ccf4fc7a-530f-45e7-a908-9841b2b7b8b8)
 
 ## Plan
 
@@ -12,7 +12,7 @@
 |week 3<br>(7/27) | Orthogonalization, QR Factorization, Least Squares Problem <br/> 발제: 5조 | |
 |week 4<br>(8/3) | Eigenvalue Problem <br/> 발제: 3조 | KUBIG 연합 연사특강(8/5)|
 |week 5<br>(8/10) | Eigenvalue Problem for Sparse Matrices <br/> 발제: 1조 | |
-|week 6<br>(8/24) | Krylow Methods for Solving Linear Systems <br/> 발제: 4조 | |
+|week 6<br>(8/26) | Krylow Methods for Solving Linear Systems <br/> 발제: 4조 | |
 
 
 ## 정규스터디
