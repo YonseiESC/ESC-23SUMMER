@@ -4,7 +4,7 @@
 
 ## Plan
 
-|week|Advanced Linear Algebra and Multivariate Data Analysis<br>(every Thursday 19:00~21:00)|Special Session<br>(Saturday 15:00~17:00)|
+|week|Advanced Linear Algebra<br>(every Thursday 19:00~21:00)|Special Session<br>(Saturday 15:00~17:00)|
 |:--:|:--------------------------:|:------------------------:|
 |week 0<br>(7/6)| ESC OT, Introduction | |
 |week 1<br>(7/13) | Conditioning and Stability <br/> 발제: 임원진 ||
