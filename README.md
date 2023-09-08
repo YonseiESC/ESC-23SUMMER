@@ -27,7 +27,7 @@
 - 부교재: Numerical Linear Algebra with Julia - Darve and Wootters 
 
 ## 세션 영상 유튜브 링크
-- 230707 SUMMER week0 : OT - https://youtu.be/nOybQ5ZgM68
+- 230706 SUMMER week0 : OT - https://youtu.be/nOybQ5ZgM68
 - 230713 SUMMER week1 : Conditioning and Stability - https://youtu.be/t1JrBsGIJ20
 - 230720 SUMMER week2 : SVD and Its Application - https://youtu.be/HLVTEZrDVPs
 - 230727 SUMMER week3 : Orthogonalization, QR Factorization, Least Squares Problem - https://youtu.be/aSKdM4Brj8E
