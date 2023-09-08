@@ -10,9 +10,9 @@
 |week 1<br>(7/13) | Conditioning and Stability <br/> 발제: 임원진 ||
 |week 2<br>(7/20) | SVD and Its Application <br/> 발제: 2조 | 친바(7/22)|
 |week 3<br>(7/27) | Orthogonalization, QR Factorization, Least Squares Problem <br/> 발제: 5조 | |
-|week 4<br>(8/3) | Eigenvalue Problem <br/> 발제: 3조 | KUBIG 연합 연사특강(8/5)|
+|week 4<br>(8/3) | Eigenvalue Problem <br/> 발제: 3조 | |
 |week 5<br>(8/10) | Eigenvalue Problem for Sparse Matrices <br/> 발제: 1조 | |
-|week 6<br>(8/26) | Krylow Methods for Solving Linear Systems <br/> 발제: 4조 | |
+|week 6<br>(8/26) | Krylow Methods for Solving Linear Systems <br/> 발제: 4조 | KUBIG 연합 연사특강(8/24) |
 
 
 ## 정규스터디
@@ -27,10 +27,11 @@
 - 부교재: Numerical Linear Algebra with Julia - Darve and Wootters 
 
 ## 세션 영상 유튜브 링크
-- 230713 SUMMER week1 : Conditioning and Stability - 
-- 230720 SUMMER week2 : SVD and Its Application - 
-- 230727 SUMMER week3 : Orthogonalization, QR Factorization, Least Squares Problem - 
-- 230803 SUMMER week4 : Eigenvalue Problem - 
-- 230810 SUMMER week5 : Eigenvalue Problem for Sparse Matrices - 
-- 230824 SUMMER week6 : Krylow Methods for Solving Linear Systems -
+- 230707 SUMMER week0 : OT - https://youtu.be/nOybQ5ZgM68
+- 230713 SUMMER week1 : Conditioning and Stability - https://youtu.be/t1JrBsGIJ20
+- 230720 SUMMER week2 : SVD and Its Application - https://youtu.be/HLVTEZrDVPs
+- 230727 SUMMER week3 : Orthogonalization, QR Factorization, Least Squares Problem - https://youtu.be/aSKdM4Brj8E
+- 230803 SUMMER week4 : Eigenvalue Problem - https://youtu.be/oTeGB-GBCIQ
+- 230810 SUMMER week5 : Eigenvalue Problem for Sparse Matrices - https://youtu.be/kER2uWAcW5E
+- 230826 SUMMER week6 : Krylow Methods for Solving Linear Systems - https://youtu.be/iTOv3pRf-CQ
 
