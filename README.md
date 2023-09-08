@@ -8,11 +8,11 @@
 |:--:|:--------------------------:|:------------------------:|
 |week 0<br>(7/6)| ESC OT, Introduction | |
 |week 1<br>(7/13) | Conditioning and Stability <br/> 발제: 임원진 ||
-|week 2<br>(7/20) | SVD and Its Application <br/> 발제: 2조 | 친바(7/22)|
-|week 3<br>(7/27) | Orthogonalization, QR Factorization, Least Squares Problem <br/> 발제: 5조 | |
-|week 4<br>(8/3) | Eigenvalue Problem <br/> 발제: 3조 | |
-|week 5<br>(8/10) | Eigenvalue Problem for Sparse Matrices <br/> 발제: 1조 | |
-|week 6<br>(8/26) | Krylow Methods for Solving Linear Systems <br/> 발제: 4조 | KUBIG 연합 연사특강(8/24) |
+|week 2<br>(7/20) | SVD and Its Application <br/> 발제: 2조 (조장: 임승현) | 친바(7/22)|
+|week 3<br>(7/27) | Orthogonalization, QR Factorization, Least Squares Problem <br/> 발제: 5조 (조장: 김종) | |
+|week 4<br>(8/3) | Eigenvalue Problem <br/> 발제: 3조 (조장: 김채) | |
+|week 5<br>(8/10) | Eigenvalue Problem for Sparse Matrices <br/> 발제: 1조 (조장: 최영) | |
+|week 6<br>(8/26) | Krylow Methods for Solving Linear Systems <br/> 발제: 4조 (조장: 김민주)| KUBIG 연합 연사특강(8/24) |
 
 
 ## 정규스터디
