@@ -13,7 +13,7 @@
 |week 4<br>(8/3) | Eigenvalue Problem <br/> 발제: 3조 (조장: 김채성) | |
 |week 5<br>(8/10) | Eigenvalue Problem for Sparse Matrices <br/> 발제: 1조 (조장: 최영준) | |
 |week 6<br>(8/26) | Krylow Methods for Solving Linear Systems <br/> 발제: 4조 (조장: 김민주)| ESC x KUBIG 교류 행사1
-고려대 김광호 교수님 연사특강 (8/24)|
+고려대 김광호 교수님 연사특강 (8/24) |
 
 
 ## 정규스터디
